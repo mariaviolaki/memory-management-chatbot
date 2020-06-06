@@ -1,0 +1,7 @@
+To install wxWidgets on Linux Ubuntu, run the following commands:
+1) sudo apt-get update -y
+2) sudo apt-get install -y libwxgtk3.0-0v5
+3) sudo apt-get install -y libwxgtk3.0-dev
+
+You can check if it's installed by entering:
+wx-config --version
